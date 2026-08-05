@@ -1,2 +1,2 @@
 # RoboticHand
-Journal logging progress on Robotic Hand
+Repository tracking CAD changes to my robotic hand project
